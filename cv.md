@@ -82,7 +82,14 @@ HTML5, CSS3, JS, Bootstrap, JSON, Firebase. In present time I’m working on imp
 **_Professional interests:_**
 After completing the courses «Websites development with HTML, CSS and JS» and «Web applications development with JS», I obtained a more sharpened focus on key concepts of JavaScript and also obtained practical experience by working on my project. At present time I’m working on its improvement and adding new features.
 I watch JS tutorials on YouTube each day. My favorite channels are Web Dev Simplified, Владилен Минин, WebDev с нуля - канал Алекса Лущенко, Sorax и Дмитрий Лаврик. And my current goals are to learn React framework and basics of Node.js.
-Reason for applying for a job
-    
+
+**_Reason for applying for a job:_**
 Currently, I’m focused on extending my developer skills. My priority goal is to obtain a position in a company that offers a variety of challenging projects with growth potential in terms of individual and professional development.
 I believe my degrees provide me crucial skills. My technical degree will allow me to analyze, draw up a plan and solve the task as quickly and efficiently as possible. It will also help me to find and understand necessary information or technology if I don’t have enough knowledge about it. And my linguistic degree gives me the ability to communicate with English speaking customers and to read professional literature in original.
+
+**_Other interests:_**
+* Snowboarding for 14 years
+* Wakeboarding for 3 years
+* Belarus OCR Team athlete
+* Travelling
+* Active lifestyle
