@@ -3,7 +3,7 @@
 **_Mobile_**:  +375293493787  
 **_Email_**: a.luschyk@gmail.com  
 **_Skype_**: Alexey Luschyk  
-**_LinkedIn_**: linkedin.com/in/alexey-luschyk-abbb62192  
+**_LinkedIn_**: [linkedin.com/in/alexey-luschyk-abbb62192](linkedin.com/in/alexey-luschyk-abbb62192)  
 **_Telegram_**: @insnowwetrust  
 
 ### Objective
@@ -20,7 +20,7 @@ I am very purposeful, honest and reliable person. I prefer working in a team, bu
 **_Tools:_** HTML5, CSS3, JavaScript, Bootstrap  
 **_Database Management:_** Firebase  
 **_Source Control:_** Git  
-**_Codewars:_** 6 kyu. @insnowwetrust
+**_Codewars:_** 6 kyu. [@insnowwetrust](https://www.codewars.com/users/insnowwetrust)
       
 ### Education
 
