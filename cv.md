@@ -1,10 +1,10 @@
 ## Alexey Luschyk
 	
-**_Mobile_**:  +375293493787
-**_Email_**: a.luschyk@gmail.com
-**_Skype_**: Alexey Luschyk
-**_LinkedIn_**: linkedin.com/in/alexey-luschyk-abbb62192
-**_Telegram_**: @insnowwetrust
+**_Mobile_**:  +375293493787  
+**_Email_**: a.luschyk@gmail.com  
+**_Skype_**: Alexey Luschyk  
+**_LinkedIn_**: linkedin.com/in/alexey-luschyk-abbb62192  
+**_Telegram_**: @insnowwetrust  
 
 ### Objective
 
@@ -16,49 +16,49 @@ I am very purposeful, honest and reliable person. I prefer working in a team, bu
 
 ### Skills
 
-**_English Proficiency:_** Upper-intermediate
-**_Tools:_** HTML5, CSS3, JavaScript, Bootstrap
-**_Database Management:_** Firebase
-**_Source Control:_** Git
+**_English Proficiency:_** Upper-intermediate  
+**_Tools:_** HTML5, CSS3, JavaScript, Bootstrap  
+**_Database Management:_** Firebase  
+**_Source Control:_** Git  
 **_Codewars:_** 6 kyu. @insnowwetrust
       
 ### Education
 
-**Feb 2020 – current time, Rolling Scopes School**
+**Feb 2020 – current time, Rolling Scopes School**  
 _Course_: JavaScript/Front-end
 
-**Aug 2019 – Nov 2019, Educational Center for Programming and High Tech**
+**Aug 2019 – Nov 2019, Educational Center for Programming and High Tech**  
 _Course_: Web applications development with JavaScript
 
-**Apr 2019 – Jun 2019, Educational Center for Programming and High Tech**
+**Apr 2019 – Jun 2019, Educational Center for Programming and High Tech**  
 _Course_: Website development with HTML, CSS and JavaScript
 
-**2014 - 2016 – Academy of Public Administration under the aegis of the President of the Republic of Belarus**
+**2014 - 2016 – Academy of Public Administration under the aegis of the President of the Republic of Belarus**  
 _Specialization_: Innovation management, economist-manager
 
-**2009 - 2011 – Academy of Postgraduate Education**
+**2009 - 2011 – Academy of Postgraduate Education**  
 _Specialization_: Modern foreign language (English), interpreter in technical sphere
 
-**2006 - 2011 – Belarusian National Technical University**
+**2006 - 2011 – Belarusian National Technical University**  
 _Specialization_: Autoservice, automotive engineer
 
 ### Work experience
 
-**Aug 2019 – Nov 2019, Trainee, Educational Center for Programming and High Tech**
-**_Project role:_** Front-end Developer
-**_Project description:_** Cross-browser web application, game “WhyTwhyT”.
+**Aug 2019 – Nov 2019, Trainee, Educational Center for Programming and High Tech**  
+**_Project role:_** Front-end Developer  
+**_Project description:_** Cross-browser web application, game “WhyTwhyT”.  
 **_Used tools:_** App has been developed using following stack of technologies:
-HTML5, CSS3, JS, Bootstrap, JSON, Firebase. In present time I’m working on improvement and adding new features to my project.
+HTML5, CSS3, JS, Bootstrap, JSON, Firebase. In present time I’m working on improvement and adding new features to my project.  
 **_Link:_** https://github.com/AlexeyLuschyk/WhyTwhyT
 
-**Apr 2019 – Jun 2019, Trainee, Educational Center for Programming and High Tech**
-**_Project role:_** Front-end Developer
-**_Project description:_** Cross-browser web site “Truck Doctor”
-**_Used tools:_** Site has been developed using HTML5, CSS3 only.
+**Apr 2019 – Jun 2019, Trainee, Educational Center for Programming and High Tech**  
+**_Project role:_** Front-end Developer  
+**_Project description:_** Cross-browser web site “Truck Doctor”  
+**_Used tools:_** Site has been developed using HTML5, CSS3 only.  
 **_Link:_** https://github.com/AlexeyLuschyk/Truck-Doctor
 
 
-**March 2011 – present time, Deputy head of service station – head of sales department, Volvo Trucks**
+**March 2011 – present time, Deputy head of service station – head of sales department, Volvo Trucks**  
 **_Main responsibilities:_**
 *	Sales Management
 *	Team Leadership
