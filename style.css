@@ -1,0 +1,102 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(231, 224, 224);
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1024px;
+}
+
+header {
+  border-bottom: 2px solid gray;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.about {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contacts p {
+  margin:5px 0;
+}
+
+.contacts a {
+  margin-left: 10px;
+}
+
+span {
+  font-weight: bold;
+}
+
+main section {
+  margin: 0 30px;
+}
+
+main p {
+  margin-left: 50px;
+  text-align: justify;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+.education article p {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.education article h4 {
+  margin: 0;
+}
+
+.education article span {
+  font-style: italic;
+}
+
+.experience article {
+  margin-bottom: 20px;
+}
+
+.experience article p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.experience article h4 {
+  margin: 0;
+}
+
+.experience article span {
+  font-style: italic;
+  margin-right: 5px;
+}
+
+.volvo_work p {
+  font-weight: bold;
+}
+
+ul {
+  margin: 10px;
+}
+
+.information h4 {
+  margin: 0;
+}
+
+.information p {
+  margin: 10px 0 10px 50px;
+}
